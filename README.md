@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Front End Developer( Angular & React)
+- 🌱 I’m currently learning Nodejs
+
 <!--
 **vamsig98/vamsig98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
