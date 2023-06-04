@@ -4,8 +4,20 @@
 - 🌱 I’m currently learning Nodejs
 
 Languages and Tools:
-![image](https://github.com/vamsig98/vamsig98/assets/30744180/833fc34c-af59-48a7-84b4-900f848d455e)
-https://getbootstrap.com/
+ - HTML5
+ - CSS3
+ - JAVASCRIPT
+ - BOOTSTRAP
+ - ANGULAR
+ - CHART.JS
+ - NODEJS
+ - GIT
+ - EXPRESS
+ - REDIS
+ - MONGODB
+ - REACT
+ - TYPESCRIPT
+ - POSTMAN
 
 
 <!--
