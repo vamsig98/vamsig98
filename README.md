@@ -1,7 +1,6 @@
 ### Hi Developers 👋
 
-- 🔭 I’m currently working on Front End Developer( Angular & React)
-- 🌱 I’m currently learning Nodejs
+- 🔭 I’m currently working on MEAN & MERN stack.
 
 Languages and Tools:
  - HTML5
